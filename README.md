@@ -13,7 +13,7 @@ Welcome to the Digital Health Career Pivot repository! 🎉 This resource hub is
 Clone the Repository 🖥️
 
 Use the following command to get started
-git clone https://github.com/flippinginnovations/Digital-Health-Career-Pivot.git
+git clone https://github.com/flippinginnovations/Digital-Health-Career.git
 
 Switch to a Branch 🌲
 
