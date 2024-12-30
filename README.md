@@ -1,11 +1,10 @@
-Digital-Health-Careers
-Digital Health Career Pivot 💻🚀 Resources for transitioning into high-paying roles in digital health technology, tailored for individuals without prior experience. 🌟
+Digital Health Careers  💻🚀 Resources for transitioning into high-paying roles in digital health technology, tailored for individuals without prior experience. 🌟
 
 🔍 Overview Welcome to the Digital Health Career Pivot repository! 🎉 This resource hub is designed to help you navigate the exciting world of digital health technology. Whether you're a beginner or looking to enhance your skills, we've got you covered. 🧠💼
 
 🛠️ Features 📄 Sample Resumes and Cover Letters: Professional templates to jumpstart your career in health tech. 💻 Hands-On Exercises: Practical scenarios in software testing and analytics to build real-world experience. 📜 Mini-Certification Templates: Stand out with projects designed to showcase your expertise. 🚀 How to Get Started Clone the Repository 🖥️
 
-Use the following command to get started git clone https://github.com/flippinginnovations/Digital-Health-Career.git
+Use the following command to get started git clone https://github.com/flippinginnovations/Digital-Health-Careers.git
 
 Switch to a Branch 🌲
 
